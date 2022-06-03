@@ -1,0 +1,63 @@
+.home-section {
+  background-color: #18191a;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.home-section .first-title {
+  color: #fff;
+  font-size: calc(1.2rem + 0.9vw);
+  text-align: center;
+  font-weight: 600;
+}
+.home-section .small {
+  background-color: #504a4a;
+  color: rgb(255, 255, 255);
+  font-size: calc(2rem + 0.9vw);
+  padding: 10px;
+  margin: 20px 0px 30px;
+  border-radius: 30px;
+}
+.home-section .img {
+  height: 220px;
+  width: 350px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 20px auto;
+}
+.home-section .category {
+  margin-bottom: 40px;
+}
+.home-section .category .kind a {
+  display: block;
+  font-size: calc(0.6rem + 0.9vw);
+  font-weight: 600;
+  margin: 20px 0px;
+  background-color: #ce0000;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  border-radius: 30px;
+  transition: all 0.3s ease;
+}
+.home-section .category .kind a:hover {
+  background-color: #ff1f1f;
+}
+
+.home-section .edit {
+  text-align: justify;
+  font-size: calc(0.8rem + 0.9vw);
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+.home-section .third {
+  text-align: justify;
+  font-size: calc(0.8rem + 0.9vw);
+  font-weight: 400;
+  margin: 20px 0px;
+  background-color: #504a4a;
+  padding: 10px;
+}
+.home-section .phone {
+  font-size: calc(0.8rem + 0.9vw);
+  font-weight: 400;
+}
